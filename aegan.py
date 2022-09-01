@@ -604,7 +604,7 @@ class AEGAN(object):
 
 def load(path):
     """
-    load AEGAN model parameters from file.
+    load AEGAN model parameters from file..
 
     Parameters
     ----------
